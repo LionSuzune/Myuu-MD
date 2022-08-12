@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://telegra.ph/file/e10781736e400e227566e.jpg" width="150" height="150" border="0" alt="PFFP">
 
-<br> Sc Punya Heizou-MD Hnya nambah fitur! | Sc ori by Rzky
+<br> Sc Recode Heizou-MD Hnya nambah fitur! | Sc ori by Rzky
 
 ### Clone Repo
 
