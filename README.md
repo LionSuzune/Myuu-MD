@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://telegra.ph/file/1ad6f99162dc762ccabc2.jpg" width="150" height="150" border="0" alt="PFFP">
 
-<br> Gunakan dengan risiko Anda sendiri!
+<br> Sc Punya Heizou-MD Hnya nambah fitur! | Sc ori by Rzky
 
 [![Check Error](https://github.com/Rizky878/rzky-multidevice/actions/workflows/node.js.yml/badge.svg)](https://github.com/Rizky878/rzky-multidevice/actions/workflows/node.js.yml)
 
