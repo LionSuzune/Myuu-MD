@@ -11,7 +11,7 @@ module.exports = {
 				footer: config.namebot,
 				caption: `Script Bot Is here\ndon't forget fork + star XD`,
 				templateButtons: [
-					{ urlButton: { displayText: "Script Bot", url: "https://github.com/Rizky878/rzky-multidevice/" } },
+					{ urlButton: { displayText: "Script Bot", url: "https://github.com/LionSuzune/Myuu-MD" } },
 				],
 			},
 			{ quoted: msg }
