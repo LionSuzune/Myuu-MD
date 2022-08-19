@@ -8,11 +8,11 @@
 ### Clone Repo
 
 ```bash
-# clone repo
-git clone https://github.com/Rizky878/rzky-multidevice
+# clone repo 
+git clone https://github.com/LionSuzune/Myuu-MD
 
 # ubah posisi direktori kamu
-cd rzky-multidevice
+cd Myuu-MD
 
 # install semua module
 npm install
